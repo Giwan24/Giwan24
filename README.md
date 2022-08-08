@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-End & UI/UX Designer
 - 🌱 I’m currently learning Vue.JS
 - 💞️ I’m looking to collaborate with everyone
-- 📫 How to reach me Giwan24april@gmail.com
+- 📫 How to reach me --> Giwan24april@gmail.com or (WhatsApp) +62-821-3090-8661
 
 <!---
 Giwan24/Giwan24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
